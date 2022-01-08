@@ -1,4 +1,3 @@
-# JS
-Javascript
+# JS (Javascript)
 
-Repo to learn JS
+Repo to learn and understand JS
